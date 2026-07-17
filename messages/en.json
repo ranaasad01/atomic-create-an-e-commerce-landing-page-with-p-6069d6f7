@@ -1,1 +1,110 @@
-{}
+{
+  "nav": {
+    "brand": "NovaTech Store",
+    "cta": "Shop Now",
+    "cart_label": "View shopping cart",
+    "menu_toggle": "Toggle mobile menu"
+  },
+  "hero": {
+    "badge": "New Arrivals Every Week",
+    "headline_1": "Discover Your",
+    "headline_accent": "Next",
+    "headline_2": "Favorite Gadget",
+    "subtext": "Curated electronics for modern living. From noise-cancelling headphones to ultra-thin laptops, new drops land every week.",
+    "cta_primary": "Shop New Arrivals",
+    "cta_secondary": "View All Deals",
+    "trust_1": "30-Day Returns",
+    "trust_2": "Secure Checkout",
+    "trust_3": "24/7 Support",
+    "image_alt": "Featured product collection showcase",
+    "float_rating": "4.9 avg. rating",
+    "float_shipping": "Free Shipping",
+    "float_shipping_sub": "on orders over $49"
+  },
+  "categories": {
+    "eyebrow": "Shop by Category",
+    "heading": "Browse by Category",
+    "view_all": "View All",
+    "items_label": "items"
+  },
+  "products": {
+    "eyebrow": "Featured Products",
+    "heading": "This Week's Top Picks",
+    "subtext": "Hand-picked items trending this week, rated and reviewed by real customers.",
+    "load_more": "Load More",
+    "reviews": "Customer Reviews",
+    "add": "Add",
+    "add_to_cart": "Add to Cart",
+    "wishlist": "Save to wishlist"
+  },
+  "product": {
+    "add": "Add",
+    "add_to_cart": "Add to Cart",
+    "reviews": "reviews",
+    "wishlist": "Save"
+  },
+  "value": {
+    "eyebrow": "Our Promise",
+    "heading": "Quality You Can Trust",
+    "subtext": "Premium products, transparent pricing, and exceptional service — every single order.",
+    "image_alt": "NovaTech store interior showing curated electronics",
+    "accent_label": "Happy Customers"
+  },
+  "testimonials": {
+    "eyebrow": "Customer Love",
+    "heading": "Loved by Thousands",
+    "subtext": "See why customers keep coming back to NovaTech for their tech needs."
+  },
+  "newsletter": {
+    "badge": "Stay Updated",
+    "heading": "Get Deals Before Anyone Else",
+    "subtext": "Join 85,000+ tech enthusiasts who get our weekly newsletter with early access to sales, exclusive discount codes, and first looks at new arrivals.",
+    "placeholder": "Enter your email address",
+    "cta": "Subscribe and Save 10%",
+    "success": "You're in! Check your inbox for your 10% discount code.",
+    "disclaimer": "We respect your inbox. Unsubscribe anytime."
+  },
+  "footer": {
+    "tagline": "Your destination for the latest electronics and gadgets. Fast shipping, easy returns, and real human support.",
+    "shop": {
+      "heading": "Shop",
+      "new_arrivals": "New Arrivals",
+      "best_sellers": "Best Sellers",
+      "sale": "Sale and Clearance",
+      "gifts": "Gift Ideas"
+    },
+    "help": {
+      "heading": "Help",
+      "track": "Track My Order",
+      "returns": "Returns and Exchanges",
+      "shipping": "Shipping Policy",
+      "contact": "Contact Support"
+    },
+    "company": {
+      "heading": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press",
+      "affiliate": "Affiliate Program"
+    },
+    "legal": {
+      "heading": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Settings"
+    },
+    "social": {
+      "instagram": "Follow NovaTech Store on Instagram",
+      "twitter": "Follow NovaTech Store on X (Twitter)",
+      "tiktok": "Follow NovaTech Store on TikTok"
+    },
+    "copyright": "2025 NovaTech Store. All rights reserved.",
+    "made_with": "Built for tech lovers everywhere."
+  },
+  "badges": {
+    "sale": "SALE",
+    "new": "NEW",
+    "featured": "FEATURED",
+    "bestseller": "BESTSELLER"
+  }
+}

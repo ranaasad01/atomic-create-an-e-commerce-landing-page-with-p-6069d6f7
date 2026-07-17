@@ -1,1 +1,110 @@
-{}
+{
+  "nav": {
+    "brand": "NovaTech Store",
+    "cta": "Comprar Ahora",
+    "cart_label": "Ver carrito de compras",
+    "menu_toggle": "Alternar menú móvil"
+  },
+  "hero": {
+    "badge": "Nuevos Productos Cada Semana",
+    "headline_1": "Descubre Tu",
+    "headline_accent": "Próximo",
+    "headline_2": "Gadget Favorito",
+    "subtext": "Electrónica seleccionada para la vida moderna. Desde auriculares con cancelación de ruido hasta laptops ultra delgadas, nuevos productos llegan cada semana.",
+    "cta_primary": "Comprar Nuevos Productos",
+    "cta_secondary": "Ver Todas las Ofertas",
+    "trust_1": "Devoluciones en 30 Días",
+    "trust_2": "Pago Seguro",
+    "trust_3": "Soporte 24/7",
+    "image_alt": "Vitrina de colección de productos destacados",
+    "float_rating": "Calificación promedio 4.9",
+    "float_shipping": "Envío Gratis",
+    "float_shipping_sub": "en pedidos mayores a $49"
+  },
+  "categories": {
+    "eyebrow": "Comprar por Categoría",
+    "heading": "Explorar por Categoría",
+    "view_all": "Ver Todo",
+    "items_label": "productos"
+  },
+  "products": {
+    "eyebrow": "Productos Destacados",
+    "heading": "Los Mejores de Esta Semana",
+    "subtext": "Artículos seleccionados que están en tendencia esta semana, calificados y reseñados por clientes reales.",
+    "load_more": "Cargar Más",
+    "reviews": "Reseñas de Clientes",
+    "add": "Agregar",
+    "add_to_cart": "Agregar al Carrito",
+    "wishlist": "Guardar en lista de deseos"
+  },
+  "product": {
+    "add": "Agregar",
+    "add_to_cart": "Agregar al Carrito",
+    "reviews": "reseñas",
+    "wishlist": "Guardar"
+  },
+  "value": {
+    "eyebrow": "Nuestra Promesa",
+    "heading": "Calidad en la que Puedes Confiar",
+    "subtext": "Productos premium, precios transparentes y servicio excepcional — en cada pedido.",
+    "image_alt": "Interior de la tienda NovaTech mostrando electrónica seleccionada",
+    "accent_label": "Clientes Satisfechos"
+  },
+  "testimonials": {
+    "eyebrow": "Lo que Dicen Nuestros Clientes",
+    "heading": "Amado por Miles",
+    "subtext": "Descubre por qué los clientes siguen eligiendo NovaTech para sus necesidades tecnológicas."
+  },
+  "newsletter": {
+    "badge": "Mantente Actualizado",
+    "heading": "Obtén Ofertas Antes que Nadie",
+    "subtext": "Únete a más de 85,000 entusiastas de la tecnología que reciben nuestro boletín semanal con acceso anticipado a ventas, códigos de descuento exclusivos y primeras miradas a nuevos productos.",
+    "placeholder": "Ingresa tu correo electrónico",
+    "cta": "Suscribirse y Ahorrar 10%",
+    "success": "¡Estás dentro! Revisa tu bandeja de entrada para tu código de descuento del 10%.",
+    "disclaimer": "Respetamos tu bandeja de entrada. Desuscribirse en cualquier momento."
+  },
+  "footer": {
+    "tagline": "Tu destino para los últimos productos electrónicos y gadgets. Envío rápido, devoluciones fáciles y soporte humano real.",
+    "shop": {
+      "heading": "Tienda",
+      "new_arrivals": "Nuevos Productos",
+      "best_sellers": "Más Vendidos",
+      "sale": "Ofertas y Liquidación",
+      "gifts": "Ideas de Regalos"
+    },
+    "help": {
+      "heading": "Ayuda",
+      "track": "Rastrear Mi Pedido",
+      "returns": "Devoluciones e Intercambios",
+      "shipping": "Política de Envío",
+      "contact": "Contactar Soporte"
+    },
+    "company": {
+      "heading": "Empresa",
+      "about": "Acerca de Nosotros",
+      "careers": "Empleos",
+      "press": "Prensa",
+      "affiliate": "Programa de Afiliados"
+    },
+    "legal": {
+      "heading": "Legal",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "cookies": "Configuración de Cookies"
+    },
+    "social": {
+      "instagram": "Síguenos en Instagram",
+      "twitter": "Síguenos en X (Twitter)",
+      "tiktok": "Síguenos en TikTok"
+    },
+    "copyright": "2025 NovaTech Store. Todos los derechos reservados.",
+    "made_with": "Creado para amantes de la tecnología en todas partes."
+  },
+  "badges": {
+    "sale": "OFERTA",
+    "new": "NUEVO",
+    "featured": "DESTACADO",
+    "bestseller": "MÁS VENDIDO"
+  }
+}
